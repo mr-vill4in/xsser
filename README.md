@@ -4,7 +4,7 @@ XSS Reflection Checker
 
 #1st Step :
 
-git clone https://github.com/Tanvir0075/xsser.git
+git clone https://github.com/mr-vill4in/xsser.git
 
 cd xsser
 
